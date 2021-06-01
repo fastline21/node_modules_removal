@@ -1,2 +1,2 @@
-# node_modules_removal
+# Node Modules Removal
 Removes node_modules folder inside of directory
